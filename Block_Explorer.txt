@@ -1,0 +1,3 @@
+To view our Block Explorer, Verfiy Wallets, Transactions etc visit
+
+http://seed.coinsys.co.uk:3001/
